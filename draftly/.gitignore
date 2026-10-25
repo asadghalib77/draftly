@@ -1,0 +1,7 @@
+api/.venv
+api/.env
+
+notebooks/
+
+__pycache__/
+*.pyc
